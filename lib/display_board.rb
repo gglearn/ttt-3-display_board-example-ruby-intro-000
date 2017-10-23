@@ -2,6 +2,7 @@
 def display_board
   vertical = "   |   |   |"
   horizontal = "-----------"
+  puts "Welcome to Tic Tac Toe"
   puts vertical
   puts horizontal
   puts vertical
